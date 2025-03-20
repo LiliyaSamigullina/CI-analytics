@@ -23,14 +23,14 @@ Write a function that merges two log files into a single new file without using 
 
 ## Solution
 ### Part 1: Data Analysis
-The solution to the data analysis task is located in the `load_analysis.ipynb` file:
+The solution to the data analysis task is located in the `data_analysis_and_log_merging.ipynb` file:
 - Data is loaded from `task_history.csv`
 - Calculations are performed to determine the top 3 users by machine hours consumption per week
 - A graph of daily machine time consumption by project is plotted
 - An analysis of the load spike in the second week is conducted
 
 ### Part 2: Log Merging
-The solution to the log merging task is located in the same `load_analysis.ipynb` file.
+The solution to the log merging task is located in the same file.
 
 To generate logs, run the following command:
 
